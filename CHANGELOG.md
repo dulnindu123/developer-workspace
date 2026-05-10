@@ -7,3 +7,4 @@
 - Polish phase iteration 5
 - Polish phase iteration 6
 - Polish phase iteration 7
+- Polish phase iteration 8
